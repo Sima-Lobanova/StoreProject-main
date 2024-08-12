@@ -1,0 +1,13 @@
+/* assets.css */
+
+.avatar-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.avatar-image {
+  width: 200px !important; /* Установите желаемую ширину */
+  height: 200px !important; /* Установите желаемую высоту */
+  border-radius: 50% !important; /* Опционально: для круглой формы аватара */
+  object-fit: cover !important; /* Чтобы изображение не искажалось */
+}
